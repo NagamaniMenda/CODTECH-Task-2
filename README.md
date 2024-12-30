@@ -1,4 +1,5 @@
 # CODTECH-Task-2
+
 **Name**:MENDA NAGAMANI
 
 **company**:CODTECH IT SOLUTIONS
@@ -14,6 +15,8 @@
 **OVERVIEW OF THE PROJECT**:
 
 **PROJECT**: HospitalManagementSystem using Java Programming
+
+![image alt](https://github.com/NagamaniMenda/CODTECH-Task-2/blob/97f2025ff1f5d5038e7bec0c04c7ea4d44aaef51/hema.jpg)
 
 **OBJECTIVE**:
 To design and develop a comprehensive software application tailored to streamline hospital operations and enhance healthcare service delivery. The system aims to facilitate efficient management of patient records, staff schedules, appointments, billing, and inventory. By automating routine administrative tasks, the HospitalManagementSystem will improve accuracy, reduce operational overhead, and support better decision-making for hospital administrators.
